@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "116686040852",
+    "firebase_url": "https://op-sciences-project.firebaseio.com",
+    "project_id": "op-sciences-project",
+    "storage_bucket": "op-sciences-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116686040852:android:9eae13afdc072060d8dc01",
+        "android_client_info": {
+          "package_name": "com.example.opScienceProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116686040852-lfgrkml1aauqo5nr11muv0s4rrv8k0hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB26NXBQdM_lMRvUBQWTokikoLcKl3bjK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116686040852-lfgrkml1aauqo5nr11muv0s4rrv8k0hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
